@@ -1,7 +1,7 @@
 ### Contact Me
-+1 226-975-6257 | smit98rana@gmail.com
++1 226-975-8306 | Sagarpatel6065@gmail.com
 
-[![LinkedIn](assests/img/linkedin.png)](https://www.linkedin.com/in/smit98rana/) [![LGitHub](assests/img/github.png)](https://github.com/gentallman) [![Resume](assests/img/resume.png)](https://gentallman.github.io/smit_portfolio/smit_rana_resume.pdf) [![Transcript](assests/img/transcript.png)](https://gentallman.github.io/smit_portfolio/Transcript.pdf)
+[![LinkedIn](assests/img/linkedin.png)](https://www.linkedin.com/in/sagarkumar-p-9852b1134/) [![LGitHub](assests/img/github.png)](https://github.com/sagarpatel6065) [![Resume](assests/img/resume.png)](https://github.com/sagarpatel6065/Portfolio/blob/main/Sagarkumar%20Patel%20all.pdf) [![Transcript](assests/img/transcript.png)](https://gentallman.github.io/smit_portfolio/Transcript.pdf)
 
 
 ## Technical Skills
@@ -15,8 +15,8 @@
 
 ## Education
 
-- **PGC, Data Analytics** : St. Clair College at Windsor, ON (_Sept 2021 - April 2023_), _Cumulative GPA: 3.58 / 4.0 (Academic Honors)_
-- **BEng, Computer Engineering** : Gujarat Technological University (_July 2016 - Aug 2020_), _Cumulative CGPA: 8.63 / 10.0 (First Class with Distinction)_
+- **MEng, Electrical and Computer Engineering** : University of Windsor at Windsor, ON (_May 2022 - Sept 2023_), _Cumulative GPA: 3.58 / 4.0 (Academic Honors)_
+- **BEng, Computer Engineering**: Gujarat Technological University (_July 2016 - Sept 2020_), _Cumulative CGPA: 8.45 / 10.0 (First Class with Distinction)_
 
 ## Work Experience
 
